@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">98Application</string>
+    <string name="Square_name">Square</string>
+    <string name="Button1">Calculate</string>
+    <string name="Edit_text1">Side</string>
+    <string name="Edit_text2">Answer</string>
+</resources>
